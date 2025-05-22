@@ -1,4 +1,4 @@
-# Welcome to the NIHR RDNCC and IS Function's GitHub Organisation 🌟
+# Welcome to the NIHR RDNCC and IS Function's GitHub 🌟
 
 ## Overview 🏠
 This organisation, representing the National Institute for Health and Care Research (NIHR) Research Delivery Network and IS Function, hosts a collection of repositories focused on digital tools and infrastructure for clinical research in the UK. The repositories cover APIs, web applications, infrastructure-as-code, and integrations.
